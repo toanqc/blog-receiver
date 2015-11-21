@@ -29,7 +29,7 @@ public class EmailServiceImpl implements EmailService {
 	public void sendEmail(Contact contact) {
 		SimpleMailMessage message = new SimpleMailMessage();
 		message.setFrom(contact.getEmail());
-		message.setTo("toanqc@gmail.com");
+		message.setTo("<your_user_name>@gmail.com");
 		message.setSubject(contact.getTitle());
 		message.setText(contact.getMessage());
 
