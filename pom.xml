@@ -3,7 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>mum.ea.blog</groupId>
-	<artifactId>blog-reciever</artifactId>
+	<artifactId>blog-receiver</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
